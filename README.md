@@ -1,1 +1,2 @@
-## 👋 Olá! Eu sou Alexandre
+## 👋 Hello my name is Alexandre
+I am student
