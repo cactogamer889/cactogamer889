@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alexandre (Cactogamer889)!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=💻+Programador;🤖+Estudando+Inteligência+Artificial;⚡+C%2B%2B+%7C+Python+%7C+Java;🚀+Sempre+aprendendo+coisas+novas!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Programador;Estudando+Inteligencia+Artificial;C%2B%2B+%7C+Python+%7C+Java;Sempre+aprendendo+coisas+novas!" />
 
 ---
 
@@ -61,16 +61,6 @@
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cactogamer889&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 Troféus
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cactogamer889&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
