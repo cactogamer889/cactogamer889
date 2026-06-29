@@ -54,8 +54,6 @@
 
 </p>
 
-> Para a cobra funcionar, é necessário configurar um GitHub Action.
-
 ---
 
 ## 📈 Atividade
